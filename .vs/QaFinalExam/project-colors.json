@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6e0838a8-eddb-4ff4-aa05-96adda07ad02": {
+      "ProjectGuid": "6e0838a8-eddb-4ff4-aa05-96adda07ad02",
+      "DisplayName": "QaFinalExam",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
